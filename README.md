@@ -1,7 +1,7 @@
 <h1 align="center">Hey there I'm Kira‧₊˚❀༉‧₊˚.</h1>
 <h3 align="center">I'm a computer science student that just messes around a bit for fun!</h3>
 
-- 🌱 I’m currently learning **JS and React JS**
+- 🌱 I’m currently learning **JS, React JS and Figma**
 
 - 𓂃 ࣪˖ ִֶָ𐀔 You can reach me on discord! **@kichuraa**
 
